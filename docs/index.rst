@@ -3,16 +3,25 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to Meta's documentation!
+Le projet Meta
 ================================
 
+Meta est un projet collaboratif avec l'objectif suivant : élaborer un système permettant à des groupes de toutes tailles de fonctionner efficacement et de manière démocratique.
+
+.. info::
+
+    Meta n'en est encore qu'à ses balbutiements. Si vous souhaitez contribuer à son développement, votre aide est la bienvenue :)
+
+
 .. toctree::
-   :maxdepth: 2
-   :caption: Contents:
+   :maxdepth: 1
+
+   pourquoi
+   principes
+   modele/index
 
 
-
-Indices and tables
+Table des matières
 ==================
 
 * :ref:`genindex`

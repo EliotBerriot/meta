@@ -1,0 +1,11 @@
+version: '2'
+
+services:
+    server:
+        build:
+            context: .
+        volumes:
+            - ./docs:/docs:ro
+            - ./build:/build
+        ports:
+            - 8000:8000

@@ -4,8 +4,8 @@ Principes
 Voici nos principes fondateurs, qui guident le développement du modèle.
 
 
-L'humain d'abord
-----------------
+L'humain plutôt que le système
+------------------------------
 
 Le modèle est important, mais ce sont les personnes qui priment, systématiquement. Le modèle conçu pour servir les personnes et non l'inverse.
 
@@ -26,7 +26,7 @@ Ouverture
 
 Le développement du modèle s'effectue ouvertement, et tout le monde peut y contribuer.
 
-Le modèle lui-même encourage des processus de décision ouverts, pour faciliter l'implication des membres et éviter que le groupe soit détourné de ses objectifs.
+Le modèle lui-même encourage des processus de décision ouverts, pour faciliter l'implication des membres et éviter que le groupe soit détourné de ses missions.
 
 Testabilité
 -----------

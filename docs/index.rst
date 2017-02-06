@@ -6,7 +6,7 @@
 Le projet Meta
 ================================
 
-Meta est un projet collaboratif avec l'objectif suivant : élaborer un système permettant à des groupes de toutes tailles de fonctionner efficacement et de manière démocratique.
+Meta est un projet collaboratif doté de la mission suivante : élaborer un système permettant à des groupes de toutes tailles de fonctionner efficacement et de manière démocratique.
 
 .. info::
 

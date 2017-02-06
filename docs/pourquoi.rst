@@ -11,11 +11,11 @@ Ce problème, s'il est particulièrement visible dans les structures de grandes 
 
 Voici, selon nous, caractéristiques d'un modèle de prise de décision efficace :
 
-- Permettre au groupe d'atteindre ses objectifs
+- Permettre au groupe de répondre à ses missions
 - Faire émerger et appliquer des solutions adaptées aux problèmes constatés
 - Encourager l'inclusion et la participation des membres aux décisions
-- Empêcher le détournement des ressources du groupe à des fins personnelles, ne correspondant pas aux objectifs du groupe
+- Empêcher le détournement des ressources du groupe à des fins personnelles, ne correspondant pas aux missions du groupe
 
-Nous sommes convaincus que tous les groupes humaines font face aux mêmes types de problèmes quand à la prise de décision, et ce quelle que soit leur taille. Cependant, nous sommes d'accord sur le fait que les manifestations et l'intensité de ces problèmes varient considérablement en fonction de la taille du groupe concerné.
+Nous sommes convaincus que tous les groupes font face aux mêmes types de problèmes quand à la prise de décision, et ce quelle que soit leur taille. Cependant, nous sommes d'accord sur le fait que les manifestations et l'intensité de ces problèmes varient considérablement en fonction de la taille du groupe concerné.
 
-Nous avons donc pour but de concevoir, proposer et maintenir un modèle de prise de décision doté notamment de ces caractéristiques, et respectant nos :doc:`principes fondateurs </principes>`.
+Nous nous sommes donc fixé pour mission de concevoir, proposer et maintenir un modèle de prise de décision doté notamment de ces caractéristiques, et respectant nos :doc:`principes fondateurs </principes>`.

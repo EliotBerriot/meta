@@ -6,4 +6,7 @@ Dans cette section, vous trouverez tout ce qui concerne le modèle proprement di
 .. toctree::
    :maxdepth: 1
 
+   fondation
+   boucle
+
    glossaire
